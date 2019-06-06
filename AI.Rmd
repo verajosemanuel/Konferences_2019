@@ -48,27 +48,21 @@ background-position: 50% 50%
 class: center, bottom
 
 ---
-# La medida
 
-### Primera Guerra Mundial 
+background-image: url(media/ww1-usa.jpg)
+background-position: 50% 50%
+class: center, bottom
 
- - test army α    /   test army β
+test army α    /   test army β
 
---
+---
+background-image: url(media/war2.jpg)
+background-position: 50% 50%
+class: center, bottom
 
-### Segunda Guerra Mundial.
 
-`Avances en`: 
 
-Álgebra matricial y analisis factorial = factor G, y tantos como factores se midan
-
- - Baterias de aptitud múltiple o pruebas diferenciales.
- 
- - Army Standard Scores: pilotos, artilleros, operadores de radio...
-
---
-
-### Paradojas de la Guerra ......
+Álgebra matricial y analisis factorial = factor G, baterias de aptitud múltiple o pruebas diferenciales. Army Standard Scores: pilotos, artilleros, operadores de radio...
 
 
 ---
@@ -256,13 +250,12 @@ _`DARPA Grand Challenge` (**2004**): 1 millón de dólares. Ruta de 180 kilómet
  - **Go Zero : **
     - **sin set de training. Jugaba contra sí mismo. (4 horas)**
 
-
 ---
 class: center, middle
 # Todo esto se ha conseguido gracias a....
 
 ---
-background-image: url(media/brainneuronT.png)
+background-image: url(media/neuron-structure.png)
 background-position: 50% 50%
 class: center, bottom
 
@@ -344,6 +337,8 @@ class: inverse, middle, center
  - Si en lugar de IA, McCarthy hubiese utilizado `Procesamiento simbólico`, `Computación analítica`, o cualquier otra expresión, no estaríamos hablando de esto.
  
  - Aviones vs. Pájaros mecánicos o submarinos
+ 
+ ![cargo](media/cargo-cult.jpg)
 
 ---
 class: inverse, middle, center
@@ -424,7 +419,12 @@ Es sencillo construir un robot que muestre sensación de dolor, llore o diga que
 class: inverse, middle, center
 # Consecuencias inmediatas....
 
-###Jurídicas y Económicas
+
+---
+background-image: url(media/judge.jpg)
+background-position: 50% 50%
+class: center, bottom
+
 
 ---
 # Efectos Jurídicos
@@ -432,10 +432,6 @@ class: inverse, middle, center
 - **Acuerdos Jurídicamente relevantes**
 
 `¿Debería prohibirse a las entidades no humanas involucrarse en acuerdos y contratos?`
-
---
-
-    - Críticas sobre el sesgo (algoritmos para la concesión de hipotecas).
     
 --
 
@@ -470,11 +466,13 @@ Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los
 
 --
 
-`Ética computacional y agentes morales artificiales`. Es un reto tecnológico necesario (coches autónomos)
+`Ética computacional y agentes morales artificiales`. Es un reto tecnológico necesario (coches autónomos). Es crítico desarrollar e implementar regulaciones morales aplicables a una IA para guiar su comportamiento.
 
---
 
-`A veces ser moral implica transgredir la norma`. Es crítico desarrollar e implementar regulaciones morales aplicables a una IA para guiar su comportamiento.
+---
+background-image: url(media/economygrowth.jpg)
+background-position: 50% 50%
+class: center, bottom
 
 ---
 # Efectos Económicos
